@@ -1,0 +1,11 @@
+selenium==3.141.0
+joblib==0.15.1
+numpy
+pandas
+streamlit
+scikit_learn
+gunicorn
+Flask==1.0.2
+Flask-Cors==1.10.3
+
+

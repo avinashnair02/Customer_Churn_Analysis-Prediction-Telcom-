@@ -1,0 +1,22 @@
+.bg-primary {
+    background-color:white !important;
+}
+
+.st-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 17px;
+    max-width: 100%;
+}
+
+
+
+.purple-border {
+    flex: 1;
+    min-width: 30%;
+    background-color: #eee;
+    padding: 8px 6px;
+    border-radius: 8px;
+    
+}
